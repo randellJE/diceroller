@@ -49,32 +49,10 @@ article {
     background-color: lightblue;
 }
 
-/* .article1 .article-content{
-    display: flex;
-    flex-direction: column;
-    align-items: left;
-}
-
-.article2 .article-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center; */
-/* } */
-
 article button {
     height: 2rem;
 }
-/* .article2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
 
-.article2 button {
-    height: 2rem;
-} */
 footer p {
     color: black;
 }
